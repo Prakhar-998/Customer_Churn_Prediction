@@ -1,1 +1,15 @@
-hello
+Customer Churn Predictor Using ANN
+This project is a machine learning-based solution to predict customer churn using an Artificial Neural Network (ANN). It helps businesses identify customers likely to leave their services, enabling proactive measures to improve retention and customer satisfaction.
+
+Features
+Data Preprocessing: Handles missing values, encodes categorical data, and standardizes features for optimal performance.
+Artificial Neural Network: A deep learning model designed and trained to classify customer churn effectively.
+Visualization: Provides insights into the dataset and model's performance through accuracy metrics and confusion matrix visualizations.
+
+Tech Stack
+Language: Python
+Framework: TensorFlow/Keras
+Libraries: NumPy, Pandas, Matplotlib, Scikit-learn
+
+Dataset
+The dataset contains customer data, including demographics, service usage, and churn labels. (https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset)
