@@ -76,5 +76,5 @@ pip install pandas matplotlib
 - Deploy a predictive model as a web application.
 
 ## Author
-[Sparky Sundevil](https://github.com/sparkysundevil)
+[Prakhar Jaiswal]((https://github.com/Prakhar-998))
 
